@@ -185,7 +185,7 @@ footer {
       rgba(39, 32, 68, 0.9),
       rgba(39, 32, 68, 0.9)
     ),
-    url("../images/lisbon-footer.png");
+    url("../images/gdansk.jpg");
 
   background-repeat: no-repeat;
   background-size: cover;
@@ -251,5 +251,9 @@ footer a {
 
   .embed {
     aspect-ratio: 16 / 9;
+  }
+  .ig_embed {
+    width: 100%;
+    aspect-ratio: 1 /1;
   }
 }
